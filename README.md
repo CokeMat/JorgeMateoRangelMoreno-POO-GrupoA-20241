@@ -1,5 +1,8 @@
-# Repositorio POO
-> A lo largo de este repositorio se veran todos los trabajos que el estudiante de nombre ***Jorge Mateo Rangel Moreno*** realice a lo largo del curso
+# Tarea #1 - Unidad 4
+### Instrucciones
+> Realizar un programa que tenga una clase llamada Shape y crear otras 4 clases adicionales que hereden de ella. La clase Shape va a tener métodos para calcular el perimetro y el área, estos métodos deben de existir en las clases hijas pero deben de realizar una acción diferente dependiendo del tipo de figura que sean.
+
+ ***Subir el ejercicio en una rama llamada tarea1/unidad4***
 
 -Matricula: 23121103
 
