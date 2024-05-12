@@ -1,0 +1,31 @@
+ -- GABO --
+Estoy cansado gefe 
+
+ -- JORCH --
+ Mucho rojo, CAMPAÑA PARA ERRADICAR EL ROJO EN PROCESO
+ AGUANTE TALLERES!!!!!!!!
+ 
+ -- EDGAR --
+Probar eliminar en el enum del Rol el de tipo GERENTE, creo que no es necesario
+Cuando funcione correctamente lo de las fechas, tratar de regresarlo a LocalDate los atributos de las clases Usuario y Empleado. (Ya sea parsearlos o cambiarlos directamente a LocalDate)
+pasar el método validId a la clase Id, que reciba como parámetros el id y el rol de la lista para compararlos
+poner una sobrecarga de método en la clase Fecha para las fechas que son de hoy
+ponerle en lo del estado que si ingresa un estado inválido no lo deje avanzar, y maybe hacerlo con números para que no sea tan tardado de escribirlo todo
+*IMPORTANTE* - LISTO
+En lo de las solicitudes y los cargos y retiros de dinero falta devolver las instancias a la lista pa
+Hacer un método devolverUsuario();
+que se encargue de reemplazar el objeto viejo por el nuevo
+**IMPORTANTE**
+atributo activeEmployee
+-- No prioritario --
+En las solicitudes que indique el nombre del trabajador que revisó la solicitud así como la hora
+
+
+
+DÍA 1: 1034 INSERTIONS
+DÍA 2: 1011 INSERTIONS
+DIA 3: 1214  INSERTIONS
+DÍA 4: 611 + 399 INSERTIONS
+DIA 5: 637 INSERTIONS
+SIUU, muy bien ekuipo
+Total: 4906 INSERTIONS
