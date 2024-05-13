@@ -1,0 +1,45 @@
+{
+  "libros": [
+    {
+      "id": 202,
+      "nombre": "El código Da Vinci",
+      "autor": "Dan Brown",
+      "editorial": "Random House",
+      "fechaPublicacion": "2003-03-18",
+      "precio": 19.99,
+      "stock": 30,
+      "genero": "Misterio"
+    },
+    {
+      "id": 101,
+      "nombre": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "editorial": "Sudamericana",
+      "fechaPublicacion": "1967-05-30",
+      "precio": 25.99,
+      "stock": 50,
+      "genero": "Realismo mágico"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Ana",
+      "apellido": "García",
+      "numeroTelefono": "555-123-4567",
+      "rol": "Gerente",
+      "nombreUsuario": "anag",
+      "contrasena": "contraseña123"
+    },
+    {  "id": 2,
+      "nombre": "Carlos",
+      "apellido": "López",
+      "numeroTelefono": "555-987-6543",
+      "rol": "Cliente",
+      "nombreUsuario": "carlosl",
+      "contrasena": "segura2024"}
+  ]
+}
+
+
+
