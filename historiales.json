@@ -1,0 +1,3740 @@
+{
+  "ELECTRONICA": {},
+  "MATERIALES": {},
+  "SISTEMAS": {
+    "lJ24ISC1": {
+      "numeroControlAlumno": "lJ24ISC1",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 75.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 60.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "REPROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 88.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 88.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lJ24ISC14": {
+      "numeroControlAlumno": "lJ24ISC14",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 66.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "REPROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lP24ISC10": {
+      "numeroControlAlumno": "lP24ISC10",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 88.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lI24ISC7": {
+      "numeroControlAlumno": "lI24ISC7",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO3",
+                "profesor": {
+                  "nombre": "Diego",
+                  "apellidoP": "Chacon",
+                  "apellidoM": "Argolla",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "CAD050411HMNHRI00",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe3",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MD24ISC2",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "CALCULO3-37236",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION3",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION3-81870",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD3",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD3-89069",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 85.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 76.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 85.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lB24ISC11": {
+      "numeroControlAlumno": "lB24ISC11",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 96.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 85.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 97.0
+            }
+          ],
+          "promedioFinal": 92.66666666666667,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lC24ISC12": {
+      "numeroControlAlumno": "lC24ISC12",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 98.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 98.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lA24ISC13": {
+      "numeroControlAlumno": "lA24ISC13",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 99.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lV24ISC16": {
+      "numeroControlAlumno": "lV24ISC16",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 100.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lS24ISC4": {
+      "numeroControlAlumno": "lS24ISC4",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO3",
+                "profesor": {
+                  "nombre": "Diego",
+                  "apellidoP": "Chacon",
+                  "apellidoM": "Argolla",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "CAD050411HMNHRI00",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe3",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MD24ISC2",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "CALCULO3-37236",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION3",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION3-81870",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD3",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD3-89069",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 85.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 78.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lA24ISC6": {
+      "numeroControlAlumno": "lA24ISC6",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 87.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 80.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 96.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 79.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lV24ISC15": {
+      "numeroControlAlumno": "lV24ISC15",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 77.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 79.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lA24ISC3": {
+      "numeroControlAlumno": "lA24ISC3",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 60.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "REPROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 87.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lL24ISC5": {
+      "numeroControlAlumno": "lL24ISC5",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 79.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 80.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 55.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 89.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "REPROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lG24ISC8": {
+      "numeroControlAlumno": "lG24ISC8",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO3",
+                "profesor": {
+                  "nombre": "Diego",
+                  "apellidoP": "Chacon",
+                  "apellidoM": "Argolla",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "CAD050411HMNHRI00",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe3",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MD24ISC2",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "CALCULO3-37236",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION3",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION3-81870",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD3",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD3-89069",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 80.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 84.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 99.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 88.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 88.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lP24ISC2": {
+      "numeroControlAlumno": "lP24ISC2",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 75.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 60.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "REPROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 88.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 80.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "lJ24ISC9": {
+      "numeroControlAlumno": "lJ24ISC9",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO3",
+                "profesor": {
+                  "nombre": "Diego",
+                  "apellidoP": "Chacon",
+                  "apellidoM": "Argolla",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "CAD050411HMNHRI00",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe3",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MD24ISC2",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "CALCULO3-37236",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION3",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION3-81870",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD3",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD3-89069",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 80.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 80.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 78.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 92.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 100.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    },
+    "l124ISC0": {
+      "numeroControlAlumno": "l124ISC0",
+      "periodos": {
+        "AGOSTO_DICIEMBRE_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "CALCULO3",
+                "profesor": {
+                  "nombre": "Diego",
+                  "apellidoP": "Chacon",
+                  "apellidoM": "Argolla",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "CAD050411HMNHRI00",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe3",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MD24ISC2",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "CALCULO3-37236",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROGRAMACION3",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION3-81870",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD3",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD3-89069",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": false,
+              "calificacionFinal": 0.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2024",
+          "estatus": "CURSANDO",
+          "isAprobado": false
+        },
+        "AGOSTO_DICIEMBRE_2023": {
+          "materiasPeriodo": [
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "CALCULO1",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO1-17309",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROGRAMACION1",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION1-68984",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 95.0
+            },
+            {
+              "periodo": "AGOSTO_DICIEMBRE_2023",
+              "materia": {
+                "nombre": "PROBABILIDAD1",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD1-20545",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 90.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "AGOSTO_DICIEMBRE_2023",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        },
+        "ENERO_JUNIO_2024": {
+          "materiasPeriodo": [
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "CALCULO2",
+                "profesor": {
+                  "nombre": "Gabriel",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Morales",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RMG050411HMNAOA14",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe6",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MG24ELC2",
+                  "carrera": "ELECTRONICA"
+                },
+                "id": "CALCULO2-12641",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 100.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROGRAMACION2",
+                "profesor": {
+                  "nombre": "Lionel",
+                  "apellidoP": "Andres",
+                  "apellidoM": "Messi",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "AML050411HMNNEI22",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe1",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "ML24ISC0",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROGRAMACION2-69606",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 96.0
+            },
+            {
+              "periodo": "ENERO_JUNIO_2024",
+              "materia": {
+                "nombre": "PROBABILIDAD2",
+                "profesor": {
+                  "nombre": "Henrry",
+                  "apellidoP": "Ramirez",
+                  "apellidoM": "Perez",
+                  "direccion": "MORELIA",
+                  "fechaDeRegistro": "05/06/2024",
+                  "fechaDeNacimiento": "11/04/2005",
+                  "CURP": "RPH050411HMNAEE52",
+                  "estado": "MICHOACAN",
+                  "genero": "MASCULINO",
+                  "nombreUsuario": "profe2",
+                  "contrasena": "123",
+                  "rol": "PROFESOR",
+                  "numeroControl": "MH24ISC1",
+                  "carrera": "SISTEMAS"
+                },
+                "id": "PROBABILIDAD2-91574",
+                "nombreCarrera": "SISTEMAS",
+                "IDgrupo": "A"
+              },
+              "calificacionAsignada": true,
+              "calificacionFinal": 96.0
+            }
+          ],
+          "promedioFinal": 0.0,
+          "periodo": "ENERO_JUNIO_2024",
+          "estatus": "APROBADO",
+          "isAprobado": false
+        }
+      }
+    }
+  }
+}

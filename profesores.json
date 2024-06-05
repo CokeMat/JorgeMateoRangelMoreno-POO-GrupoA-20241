@@ -1,0 +1,215 @@
+{
+  "SISTEMAS": [
+    {
+      "materiasImpartidas": [
+        "PROGRAMACION1",
+        "PROGRAMACION2",
+        "PROGRAMACION3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "ANML0511041N7",
+      "nombre": "Lionel",
+      "apellidoP": "Andres",
+      "apellidoM": "Messi",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "AML050411HMNNEI22",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe1",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "ML24ISC0",
+      "carrera": "SISTEMAS"
+    },
+    {
+      "materiasImpartidas": [
+        "PROBABILIDAD1",
+        "PROBABILIDAD2",
+        "PROBABILIDAD3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "RAPH0511045C6",
+      "nombre": "Henrry",
+      "apellidoP": "Ramirez",
+      "apellidoM": "Perez",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "RPH050411HMNAEE52",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe2",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MH24ISC1",
+      "carrera": "SISTEMAS"
+    },
+    {
+      "materiasImpartidas": [
+        "CALCULO1",
+        "CALCULO2",
+        "CALCULO3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "CHAD0511041X5",
+      "nombre": "Diego",
+      "apellidoP": "Chacon",
+      "apellidoM": "Argolla",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "CAD050411HMNHRI00",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe3",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MD24ISC2",
+      "carrera": "SISTEMAS"
+    }
+  ],
+  "ELECTRONICA": [
+    {
+      "materiasImpartidas": [
+        "REDES1",
+        "REDES2",
+        "REDES3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "PEMG0511046Y5",
+      "nombre": "Gavi",
+      "apellidoP": "Pedroza",
+      "apellidoM": "Montiel",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "PMG050411HMNEOA32",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe4",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MG24ELC0",
+      "carrera": "ELECTRONICA"
+    },
+    {
+      "materiasImpartidas": [
+        "CIRCUITOS1",
+        "CIRCUITOS2",
+        "CIRCUITOS3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "RODJ0511044I0",
+      "nombre": "Jose",
+      "apellidoP": "Ronaldo",
+      "apellidoM": "Dosantos",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "RDJ050411HMNOOO90",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe5",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MJ24ELC1",
+      "carrera": "ELECTRONICA"
+    },
+    {
+      "materiasImpartidas": [
+        "CALCULO1",
+        "CALCULO2",
+        "CALCULO3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "RAMG0511043N1",
+      "nombre": "Gabriel",
+      "apellidoP": "Ramirez",
+      "apellidoM": "Morales",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "RMG050411HMNAOA14",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe6",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MG24ELC2",
+      "carrera": "ELECTRONICA"
+    }
+  ],
+  "MATERIALES": [
+    {
+      "materiasImpartidas": [
+        "ESTADISTICA1",
+        "ESTADISTICA2",
+        "ESTADISTICA3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "ROAC0511042H3",
+      "nombre": "Cristiano",
+      "apellidoP": "Ronaldo",
+      "apellidoM": "Aveiro",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "RAC050411HMNOVR98",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe7",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MC24IMAT0",
+      "carrera": "MATERIALES"
+    },
+    {
+      "materiasImpartidas": [
+        "CONTABILIDAD1",
+        "CONTABILIDAD2",
+        "CONTABILIDAD3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "PAMI0511041U3",
+      "nombre": "Israel",
+      "apellidoP": "Palas",
+      "apellidoM": "Morales",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "PMI050411HMNAOS34",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe8",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MI24IMAT1",
+      "carrera": "MATERIALES"
+    },
+    {
+      "materiasImpartidas": [
+        "CALCULO1",
+        "CALCULO2",
+        "CALCULO3"
+      ],
+      "sueldo": 1000.0,
+      "RFC": "MAGR0511046C4",
+      "nombre": "Ricardo",
+      "apellidoP": "Martinez",
+      "apellidoM": "Gonzalez",
+      "direccion": "MORELIA",
+      "fechaDeRegistro": "05/06/2024",
+      "fechaDeNacimiento": "11/04/2005",
+      "CURP": "MGR050411HMNAOI86",
+      "estado": "MICHOACAN",
+      "genero": "MASCULINO",
+      "nombreUsuario": "profe9",
+      "contrasena": "123",
+      "rol": "PROFESOR",
+      "numeroControl": "MR24IMAT2",
+      "carrera": "MATERIALES"
+    }
+  ]
+}

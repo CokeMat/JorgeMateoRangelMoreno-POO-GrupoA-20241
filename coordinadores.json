@@ -1,0 +1,71 @@
+{
+  "SISTEMAS": {
+    "materiasImpartidas": [
+      "PROGRAMACION1",
+      "PROGRAMACION2",
+      "PROGRAMACION3"
+    ],
+    "sueldo": 10000.0,
+    "RFC": "CHAG0511042J1",
+    "nombre": "Gabriel",
+    "apellidoP": "Chacon",
+    "apellidoM": "Arellano",
+    "direccion": "MORELIA",
+    "fechaDeRegistro": "05/06/2024",
+    "fechaDeNacimiento": "11/04/2005",
+    "CURP": "CAG050411HMNHRA80",
+    "estado": "MICHOACAN",
+    "genero": "MASCULINO",
+    "nombreUsuario": "1",
+    "contrasena": "123",
+    "rol": "COORDINADOR",
+    "numeroControl": "CG24ISC0",
+    "carrera": "SISTEMAS"
+  },
+  "ELECTRONICA": {
+    "materiasImpartidas": [
+      "CIRCUITOS1",
+      "CIRCUITOS2",
+      "CIRCUITOS3"
+    ],
+    "sueldo": 1000.0,
+    "RFC": "RAMJ0511044O4",
+    "nombre": "Jorge",
+    "apellidoP": "Rangel",
+    "apellidoM": "Moreno",
+    "direccion": "MORELIA",
+    "fechaDeRegistro": "05/06/2024",
+    "fechaDeNacimiento": "11/04/2005",
+    "CURP": "RMJ050411HMNAOO32",
+    "estado": "MICHOACAN",
+    "genero": "MASCULINO",
+    "nombreUsuario": "2",
+    "contrasena": "123",
+    "rol": "COORDINADOR",
+    "numeroControl": "CJ24ELC0",
+    "carrera": "ELECTRONICA"
+  },
+  "MATERIALES": {
+    "materiasImpartidas": [
+      "ESTADISTICA1",
+      "ESTADISTICA2",
+      "ESTADISTICA3"
+    ],
+    "sueldo": 1000.0,
+    "RFC": "MALE0522112Q7",
+    "nombre": "Edgar",
+    "apellidoP": "Martinez",
+    "apellidoM": "Lopez",
+    "direccion": "MORELIA",
+    "fechaDeRegistro": "05/06/2024",
+    "fechaDeNacimiento": "22/11/2005",
+    "CURP": "MLE051122HMNAOD78",
+    "estado": "MICHOACAN",
+    "genero": "MASCULINO",
+    "nombreUsuario": "3",
+    "contrasena": "123",
+    "rol": "COORDINADOR",
+    "numeroControl": "CE24IMAT0",
+    "carrera": "MATERIALES"
+  }
+}
